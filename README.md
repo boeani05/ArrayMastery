@@ -30,7 +30,7 @@ This project is a hands-on exercise designed to build a deep and practical under
 
 Assuming the project structure is `ArrayMastery/src/Main.java`:
 
-1.  Clone this repository: `git clone [YOUR_REPO_URL]`
+1.  Clone this repository: `git clone https://github.com/boeani05/ArrayMastery.git`
 2.  Navigate to the `src` directory: `cd ArrayMastery/src`
 3.  Compile the Java code: `javac Main.java`
 4.  Run the application from the `src` directory: `java Main`
